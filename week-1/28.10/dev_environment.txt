@@ -1,0 +1,25 @@
+Excercise 1:
+Python - B, VS Code - D,
+Git - A, Terminal - C, Docker - E
+
+Excercise 2:
+1. The system isn't recognize this name (python).
+2. A - The current terminal windows was opened before python installation, solution: reopen the terminal.
+B - The program is installed but the system can't found it, solution: add it's path to the ENV VARIABLES.
+
+Excercise 3:
+git = command, --version = flag
+cp = command, notes.txt backup.txt = argument
+ls = command, -la = flag
+mkdir = command, week-2 = argument
+
+Excercise 4:
+mkdir week-1
+cd week-1
+pwd
+cd ..
+
+Excercise 5:
+1. Because that the file isn't in the current directory and we didn't provide the full path.
+2. A - Use cd to change our position to the directory where hello.py is.
+B - Run this command and procide the full path (/week-1/hello.py)

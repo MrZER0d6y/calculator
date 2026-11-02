@@ -1,0 +1,24 @@
+Excercise 1:
+1. Client - the phone, Server - the bank website.
+2. Client - the weather app, Server - the weather service server.
+3. Client - the browser, Server - the sofware.
+
+Excercise 2:
+1. IP - the device address, PORT - the software (service) in this device.
+2. LocalHost - the current device on port 8000.
+3. Because everyone have it's own localhost address and port.
+
+Excercise 3:
+1. Protocol - https, Domain - shop.example.com, Port - 433, Path - /cart, Query - coupon=SALE10.
+2. Still 443, because that it's the default port for HTTP.
+
+Excercise 4:
+200 - OK (the request succeeded).
+301 - The resource moved to anther URL.
+404 - Page NOT_FOUND.
+500 - Server error.
+None, because the server is the one who sends the error codes...
+
+Excercise 5:
+4 -> 6 -> 1 -> 2 -> 5 -> 7 -> 3
+Because that the server doesn't know what is the address to make the TCP handshake with.

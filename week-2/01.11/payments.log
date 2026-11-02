@@ -1,0 +1,12 @@
+2026-11-01 17:08:25,685 ERROR    Only integers accepted.
+Traceback (most recent call last):
+  File "/mnt/c/Users/ShimiSegal/Desktop/kodcode6/week-2/01.11/main.py", line 12, in <module>
+    total_charged += int(payment)
+                     ^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'abc'
+2026-11-01 17:08:36,216 ERROR    Only integers accepted.
+Traceback (most recent call last):
+  File "/mnt/c/Users/ShimiSegal/Desktop/kodcode6/week-2/01.11/main.py", line 12, in <module>
+    total_charged += int(payment)
+                     ^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'abc'
