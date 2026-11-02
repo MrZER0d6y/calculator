@@ -1,0 +1,25 @@
+Excercise 1:
+1 - RAM
+2 - CPU
+3 - Storage
+4 - Registers
+
+Excercise 2:
+1. The CPU have 8 cores - 8 independent physical processing units (like mini CPUs).
+2. Danny talks about the storage, but the programs runs on the ram.
+
+Excercise 3:
+B -> D -> A -> C
+
+Excercise 4:
+Program A - SyntaxError, Yes (Because it's python...).
+Program B - RunTimeError, Yes.
+
+Excercise 5:
+1. Compiler first convert the code to an executable ('build' - make it runnable program).
+Interpreter fetch the commands line by line and execute them immediately.
+2. Compiler adventage - running the program is faster (except of the first time we bulid it...), and ensures that the program have no errors.
+Interpreter adventage - gives immediate feedback and the ability to debug the program.
+3. Python is interpreter language.
+Bytecode role - the interpreter translages the human-readable code to intermediate code (bytecode) that the PVM can run.
+PVM role - the runtime engine that reads and execute the bytecode on the hardware.
